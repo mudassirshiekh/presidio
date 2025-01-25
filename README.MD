@@ -39,6 +39,7 @@ Please help us improve by taking [this short anonymous survey](https://forms.off
 ---
 
 ### Goals
+## By Mudassir Alam
 
 - Allow organizations to preserve privacy in a simpler way by democratizing de-identification technologies and introducing transparency in decisions.
 - Embrace extensibility and customizability to a specific business need.
